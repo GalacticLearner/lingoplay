@@ -1,1 +1,4 @@
 gutenbergpy
+spacy
+tensorflow
+numpy
